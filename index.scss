@@ -1,0 +1,15 @@
+@import "./overrides";
+.container-fluid{
+    background-color:$indaco-300;
+    .container{ background: url("/assets/hero-img.png");
+        background-repeat: no-repeat;
+        background-position: right;
+        min-height: 400px;
+       
+        
+        
+        
+
+    }
+   
+}
